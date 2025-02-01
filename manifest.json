@@ -2,8 +2,8 @@
     "ServerKind": 0,
     "OrganizationName": "Kunming No.10 Middle School G7&G8",
     "ClassPlanSource": {
-        "Value": "https://raw.githubusercontent.com/woshishei1993/classisland-mgmt-cfg/master/classplans.json",
-        "Version": 1
+        "Value": "https://raw.githubusercontent.com/woshishei1993/classisland-mgmt-cfg/master/{id}/classplans.json",
+        "Version": 2
     },
     "TimeLayoutSource": {
         "Value": "https://raw.githubusercontent.com/woshishei1993/classisland-mgmt-cfg/master/timelayouts.json",
@@ -11,6 +11,10 @@
     },
     "SubjectsSource": {
         "Value": "https://raw.githubusercontent.com/woshishei1993/classisland-mgmt-cfg/master/subjects.json",
+        "Version": 1
+    },
+    "PolicySource": {
+        "Value": "https://raw.githubusercontent.com/woshishei1993/classisland-mgmt-cfg/master/policy.json",
         "Version": 1
     }
 }
